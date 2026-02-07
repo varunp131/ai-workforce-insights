@@ -11,6 +11,7 @@ Streamlit app for workforce financial risk insights and AI recommendations.
 1. Install dependencies:
 ```
 python -m pip install -r requirements.txt
+python -m pip install altair==4.2.2
 ```
 
 2. Create `.env` from the example:
@@ -28,3 +29,4 @@ GROQ_API_KEY=your_key_here
 python -m streamlit run app.py
 ```
 
+altair==4.2.2
