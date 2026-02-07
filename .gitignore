@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Env
+.env
+
+# Streamlit
+.streamlit/
+
+# OS
+Thumbs.db
+Desktop.ini
